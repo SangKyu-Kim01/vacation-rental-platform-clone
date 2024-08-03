@@ -25,5 +25,5 @@ COPY ./frontend/ ./
 # Expose port 3000
 EXPOSE 3000
 
-# Start Nginx server
+# Start frontend server
 CMD ["npm", "start"]
