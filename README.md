@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a clone inspired by Airbnb, created for educational purposes. It mimics the design and functionality of the Airbnb platform as a learning exercise.
+This project is a clone inspired by Airbnb, created for educational purposes. It mimics the design and functionality of the Airbnb platform as a learning exercise. The project showcases the implementation of a full-stack web application, emphasizing best practices in software development and deployment.
 
 ## Technologies Used
 
