@@ -1,0 +1,61 @@
+@import "../styles/variables.scss";
+@import "../styles/breakpoints.scss";
+
+.profile {
+  background-color: $lightgrey;
+  padding: 40px 60px 120px;
+
+  @include mm {
+    padding: 40px 20px;
+  }
+
+  h1 {
+    color: $blue;
+  }
+
+  .profile_form {
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 20px;
+    margin-top: 40px;
+
+    @include sm {
+      padding: 30px 20px;
+    }
+
+    label {
+      font-weight: 600;
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    input {
+      border: 1px solid $grey;
+      padding: 15px 30px;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: 600;
+      width: 100%;
+      margin-bottom: 20px;
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    button {
+      padding: 10px 20px;
+      border: none;
+      background-color: $blue;
+      color: white;
+      border-radius: 10px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: $pinkred;
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+@import "../styles/variables.scss";
+@import "../styles/breakpoints.scss";
+
+.text-info {
+  font-size: 0.75rem;
+}
+
+.booking_img {
+  border-radius: 10px;
+}
+
+.listing_img {
+  border-radius: 10px;
+}
+
+.container {
+  border-radius: 10px;
+}
+
+.profile {
+  background-color: $lightgrey;
+}

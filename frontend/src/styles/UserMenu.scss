@@ -1,0 +1,26 @@
+.Menu-container {
+  @media (max-width: 1024px) {
+    .Menu-box {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+
+    .Menu-box .slogan {
+      display: none;
+    }
+
+    .Menu-box img {
+      display: none;
+    }
+
+    .Menu-box .current-user {
+      display: none;
+    }
+
+    .menu-items {
+      display: absolute;
+      width: 100%;
+    }
+  }
+}

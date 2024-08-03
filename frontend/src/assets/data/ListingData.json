@@ -1,0 +1,136 @@
+[
+  {
+    "listingId": "1",
+    "hostId": "",
+    "title": "Rental 01",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Modern",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 Main street",
+    "city": "New York City",
+    "state": "NY",
+    "postal": "",
+    "country": "USA",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [
+      {
+        "userId": 5,
+        "rating": 4
+      }
+    ],
+    "isFavorite": 1,
+    "photo": "rentalimg1"
+  },
+  {
+    "listingId": "2",
+    "hostId": "",
+    "title": "Rental 02",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Luxury",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 2nd street",
+    "city": "Montreal",
+    "state": "QC",
+    "postal": "",
+    "country": "Canada",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [],
+    "averageRate": 4.8,
+    "isFavorite": 1,
+    "photo": "rentalimg2"
+  },
+  {
+    "listingId": "3",
+    "hostId": "",
+    "title": "Rental 03",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Cabin",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 Main street",
+    "city": "Banff, Calgary",
+    "state": "AB",
+    "postal": "",
+    "country": "Canada",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [
+      {
+        "userId": 5,
+        "rating": 4
+      }
+    ],
+    "averageRate": 4.8,
+    "isFavorite": 1,
+    "photo": "rentalimg3"
+  },
+  {
+    "listingId": "4",
+    "hostId": "",
+    "title": "Rental 04",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Modern",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 Main street",
+    "city": "San Jose",
+    "state": "CA",
+    "postal": "",
+    "country": "USA",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [
+      {
+        "userId": 5,
+        "rating": 4
+      }
+    ],
+    "averageRate": 4.8,
+    "isFavorite": 0,
+    "photo": "rentalimg4"
+  },
+  {
+    "listingId": "5",
+    "hostId": "",
+    "title": "Rental 05",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Modern",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 Main street",
+    "city": "San Francisco",
+    "state": "CA",
+    "postal": "",
+    "country": "USA",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [],
+    "averageRate": 4.8,
+    "isFavorite": 1,
+    "photo": "rentalimg5"
+  },
+  {
+    "listingId": "6",
+    "hostId": "",
+    "title": "Rental 06",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "propertyType": "Modern",
+    "rentalType": "",
+    "pricePerNight": 99.99,
+    "street": "123 Main street",
+    "city": "Vancouver",
+    "state": "BC",
+    "postal": "",
+    "country": "Canada",
+    "numBeds": 6,
+    "numBathrooms": 2,
+    "reviews": [],
+    "averageRate": 4.8,
+    "isFavorite": 0,
+    "photo": "rentalimg6"
+  }
+]
